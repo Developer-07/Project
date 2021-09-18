@@ -1,3 +1,1 @@
-use pydb;
-
-select * from login where id= 
+use pydb;select * from login where id= 
